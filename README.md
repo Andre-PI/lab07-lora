@@ -1,11 +1,13 @@
 # Laboratório 07 — Especialização de LLMs com LoRA e QLoRA
 
-Fine-tuning eficiente de um modelo de linguagem fundacional usando PEFT/LoRA e quantização QLoRA, aplicado ao domínio de atendimento de barbearia.
+Fine-tuning eficiente de um modelo de linguagem fundacional usando PEFT/LoRA e quantização QLoRA, aplicado ao domínio de atendimento de barbearia, aproveitando para um projeto que estou desenvolvendo.
 
 > **Nota de integridade:** Partes geradas/complementadas com IA, revisadas por Andre.
 
 ---
-
+- Compatibilidade de código UTF-8 
+- Prompt gerado por IA para otimizar o tempo e corrigir ortografia.
+- método main de train.py e generate_dataset.py gerado por IA.
 ## Domínio escolhido
 
 Assistente de atendimento da **Alpha Barber Club** — responde dúvidas de clientes via WhatsApp sobre serviços, preços, horários, agendamento e localização.
