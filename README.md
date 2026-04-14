@@ -2,7 +2,7 @@
 
 Fine-tuning eficiente de um modelo de linguagem fundacional usando PEFT/LoRA e quantização QLoRA, aplicado ao domínio de atendimento de barbearia, aproveitando para um projeto que estou desenvolvendo.
 
-> **Nota de integridade:** Partes geradas/complementadas com IA, revisadas por Andre.
+# **Nota de integridade:** Partes geradas/complementadas com IA, revisadas por Andre.
 
 ---
 - Compatibilidade de código UTF-8 
