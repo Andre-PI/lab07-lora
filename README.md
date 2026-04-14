@@ -11,7 +11,10 @@ Fine-tuning eficiente de um modelo de linguagem fundacional usando PEFT/LoRA e q
 Assistente de atendimento da **Alpha Barber Club** — responde dúvidas de clientes via WhatsApp sobre serviços, preços, horários, agendamento e localização.
 
 ---
-
+- Compatibilidade de código UTF-8 
+- Prompt gerado por IA para otimizar o tempo e corrigir ortografia.
+- método main de train.py e generate_dataset.py gerado por IA.
+- 
 ## Estrutura do projeto
 
 ```
